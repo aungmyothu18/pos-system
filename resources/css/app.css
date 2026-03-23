@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* Scan these files for Tailwind classes */
+@source "../views";
+@source "../../storage/framework/views/*.php";
