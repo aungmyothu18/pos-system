@@ -29,7 +29,8 @@
         },
         "platform": {
             "php": "8.2.29",
-            "ext-gd": "1"
+            "ext-gd": "1",
+            "ext-zip": "1"
         }
     },
     "minimum-stability": "stable",
